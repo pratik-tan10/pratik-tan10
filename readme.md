@@ -2,6 +2,7 @@
 
 [![GitHub Badge](https://img.shields.io/github/followers/pratik-tan10?style=social)](https://github.com/pratik-tan10?tab=followers)
 [![YouTube Badge](https://img.shields.io/badge/My-YouTube-red)](https://www.youtube.com/@geotown7095)
+[![Website Badge](https://img.shields.io/badge/Personal-Website-green)](https://pratik-tan10.github.io/)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/pratikdh)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=pratik-tan10.github.io)
 
